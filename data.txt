@@ -1,0 +1,59 @@
+purple senior shoes/shoe/0/luk/3/none/2.34/Formaldehigh/unsold/131005/5/
+purple senior shoes/shoe/0/luk/2/none/1.23/Formaldehigh/unsold/131005/5/
+purple senior gloves/glove/0/luk/2/none/1/Formaldehigh/unsold/131005/5/
+half earrings/earring/0/luk/3/none/1/Formaldehigh/unsold/131005/5/
+necro slayer/dagger/115/luk/0/none/4/Formaldehigh/unsold/131005/5/
+dimension gloves/glove/8/all/0/none/4.44/Formaldehigh/unsold/131005/5/
+dimension gloves/glove/8/all/0/none/4.44/Formaldehigh/unsold/131005/5/
+scroll equip enhancement/scroll/none/none/none/none/.299/Formaldehigh/unsold/131005/5/
+lionheart battle mail/overall/19/str/8/neb2%str/2899.99/zerogaruda/unsold/131005/1/
+strong machine gloves/glove/21/str/0/none/2249.99/zerogaruda/unsold/131005/1/
+unleashed ring/ring/2/dex/15/none/1499.99/zerogaruda/sold/131005/1/
+rising sun pendant/pendant/3/hp/6/999.99/none/zerogaruda/unsold/131005/1/
+marx von leon sabre/1hs/164/str/0/neb2%str/899.99/zerogaruda/unsold/131005/1/
+tempest pendant/pendant/1/int/0/hprecover30%/749.99/zerogaruda/unsold/131005/1/
+tempest ring/ring/5/int/3/none/174.99/zerogaruda/unsold/131005/1/
+dragon boots/shoe/10/str/0/none/119.99/zerogaruda/unsold/131005/1/
+kalkan/shield/10/str/none/none/74.99/zerogaruda/unsold/131005/1/
+garina shoes/shoe/3/luk/none/potential/34.99/zerogaruda/unsold/131005/1/
+snowshoes/shoe/none/luk/16/none/9999.99/dreamallday/unsold/131005/1/
+raven horn crimson cane/cane/131/luk/0/none/189.99/dreamallday/unsold/131005/1/
+scroll 60% gfa/scroll/-1/18.99/dreamallday/unsold/131005/1/
+beryl heart/heart/-1/94.99/dumbavenge/unsold/131021/1/
+dimension gloves/glove/14/all/0/none/99.99/dumbavenge/unsold/131021/1/
+VIP dagger (str)/dagger/189/luk/9/15% pdr, 30% boss dmg/5555.55/presidentb0b/unsold/131021/7/
+tempest ring/ring/2/all/0/30% hp recovery/400/presidentb0b/unsold/131021/7/
+tempest ring/ring/4/luk/12/none/1333.33/presidentb0b/unsold/131021/7/
+trixter ranger pants/bottom/2/dex/9/none/3333.33/presidentb0b/unsold/131021/7/
+quality purple mask/face/2/luk/4/none/555.55/presidentb0b/unsold/131021/7/
+dark commodore pants/bottom/8/str/0/none/29.99/presidentb0b/unsold/131021/7/
+lionheart battle mail/overall/-1/130/presidentb0b/unsold/131021/7/
+raven horn chaser hat/1/luk/9/none/900/presidentb0b/unsold/131021/7/
+fafnir twin clever/weapon 1ha/-1/888.88/presidentb0b/unsold/131021/7/
+lemon shooting star ring/nx/-1/130/presidentb0b/unsold/131021/7/
+dracula cloak/nx/-1/39.99/presidentb0b/sold/131021/7/
+strong machine gloves/glove/21/luk/16/3333.33/presidentb0b/unsold/131021/7/
+special potential scroll/scroll/-1/130/presidentb0b/unsold/131021/7/
+golden hammer 50%/scroll/-1/109.99/presidentb0b/unsold/131021/7/
+special bonus potential/scroll/-1/190/presidentb0b/unsold/131021/7/
+occult cube/scroll/-1/10/presidentb0b/unsold/131021/7/
+overwhelming power 30/book/-1/5.55/presidentb0b/unsold/131021/7/
+eye of fire chunk/etc/-1/.555/presidentb0b/unsold/131021/7/
+black skull eye patch/nx/-1/25/presidentb0b/sold/131021/7/
+hypogram field 30/book/-1/40/presidentb0b/unsold/131021/7/
+50% miraculous chaos/scroll/-1/100/presidentb0b/unsold/131021/7/
+advanced potential/scroll/-1/19/presidentb0b/unsold/131021/7/
+buccaneer blast 20/book/-1/4.44/presidentb0b/unsold/131021/7/
+bunny earmuffs/nx/-1/30/presidentb0b/sold/131021/7/
+superior gollux ring/ring/8/luk/15/none/5000/tengokunouta/unsold/131021/7/
+white neschere/crossbow/141/dex/0/none/200/tengokunouta/unsold/131021/7/
+violet snowshoes/shoe/0/str/9/none/300/tengokunouta/unsold/131021/7/
+dragon wand/wand/146/int/6/15% pdr/150/tengokunouta/unsold/131021/7/
+50% vision scroll for 2hw/scroll/-1/12/tengokunouta/unsold/131021/7/
+60% scroll for pet equip for magic att/scroll/-1/30/tengokunouta/unsold/131021/7/
+scroll for shield for weapon att 60%/scroll/-1/100/tengokunouta/unsold/131021/7/
+azwan scroll for 1hw for att 60%/scroll/-1/2/tengokunouta/unsold/131021/7/
+azwan scroll for 2hw for att 60%/scroll/-1/2/tengokunouta/sold/131021/7/
+advanced equip enhancement scroll/scroll/-1/30/tengokunouta/unsold/131021/7/
+scroll for 2hw for att 50%/scroll/-1/150/tengokunouta/unsold/131021/7/
+horntail dungeon additional entry ticket/etc/-1/50/tengokunouta/unsold/131021/7/
